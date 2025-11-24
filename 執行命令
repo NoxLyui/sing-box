@@ -1,5 +1,7 @@
 bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 sb add rh2
+sb chang "name" port 10000
+sb c 直接進入
 sb add trojan
 sb add ss
 sb add tcp
